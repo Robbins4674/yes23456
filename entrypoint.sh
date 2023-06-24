@@ -6,7 +6,7 @@ UUID=${UUID:-'ebaf305a-8091-43f3-89d9-a5aaa2b46c3e'}
 
 # 其他Paas保活
 PAAS1_URL=useyu-robbins4674.cloud.okteto.net
-PAAS2_URL=
+PAAS2_URL=app-robbins4674.cloud.okteto.net
 PAAS3_URL=
 PAAS4_URL=
 PAAS5_URL=
